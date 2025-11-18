@@ -1,0 +1,304 @@
+{
+  "covers": [
+    {
+      "id": 1,
+      "filename": "afterglowdrive.png",
+      "title": "Afterglowdrive",
+      "category": "retro"
+    },
+    {
+      "id": 2,
+      "filename": "ayannarose.png",
+      "title": "Ayannarose",
+      "category": "clean"
+    },
+    {
+      "id": 3,
+      "filename": "belinda-morseti.png",
+      "title": "Belinda Morseti",
+      "category": "retro"
+    },
+    {
+      "id": 4,
+      "filename": "concretedreams.png",
+      "title": "Concretedreams",
+      "category": "clean"
+    },
+    {
+      "id": 5,
+      "filename": "cover-1.jpg",
+      "title": "Cover 1",
+      "category": "grunge"
+    },
+    {
+      "id": 6,
+      "filename": "cover-10.jpg",
+      "title": "Cover 10",
+      "category": "grunge"
+    },
+    {
+      "id": 7,
+      "filename": "cover-11.jpg",
+      "title": "Cover 11",
+      "category": "grunge"
+    },
+    {
+      "id": 8,
+      "filename": "cover-12.jpg",
+      "title": "Cover 12",
+      "category": "grunge"
+    },
+    {
+      "id": 9,
+      "filename": "cover-13.jpg",
+      "title": "Cover 13",
+      "category": "grunge"
+    },
+    {
+      "id": 10,
+      "filename": "cover-14.jpg",
+      "title": "Cover 14",
+      "category": "grunge"
+    },
+    {
+      "id": 11,
+      "filename": "cover-15.jpg",
+      "title": "Cover 15",
+      "category": "grunge"
+    },
+    {
+      "id": 12,
+      "filename": "cover-16.jpg",
+      "title": "Cover 16",
+      "category": "grunge"
+    },
+    {
+      "id": 13,
+      "filename": "cover-2.jpg",
+      "title": "Cover 2",
+      "category": "grunge"
+    },
+    {
+      "id": 14,
+      "filename": "cover-3.jpg",
+      "title": "Cover 3",
+      "category": "grunge"
+    },
+    {
+      "id": 15,
+      "filename": "cover-4.jpg",
+      "title": "Cover 4",
+      "category": "grunge"
+    },
+    {
+      "id": 16,
+      "filename": "cover-5.jpg",
+      "title": "Cover 5",
+      "category": "grunge"
+    },
+    {
+      "id": 17,
+      "filename": "cover-6.jpg",
+      "title": "Cover 6",
+      "category": "grunge"
+    },
+    {
+      "id": 18,
+      "filename": "cover-7.jpg",
+      "title": "Cover 7",
+      "category": "grunge"
+    },
+    {
+      "id": 19,
+      "filename": "cover-8.jpg",
+      "title": "Cover 8",
+      "category": "grunge"
+    },
+    {
+      "id": 20,
+      "filename": "cover-9.jpg",
+      "title": "Cover 9",
+      "category": "grunge"
+    },
+    {
+      "id": 21,
+      "filename": "dreamsequence.png",
+      "title": "Dreamsequence",
+      "category": "abstract"
+    },
+    {
+      "id": 22,
+      "filename": "focused.png",
+      "title": "Focused",
+      "category": "clean"
+    },
+    {
+      "id": 23,
+      "filename": "heatcheck.png",
+      "title": "Heatcheck",
+      "category": "mixtape"
+    },
+    {
+      "id": 24,
+      "filename": "iceman.png",
+      "title": "Iceman",
+      "category": "mixtape"
+    },
+    {
+      "id": 25,
+      "filename": "ironmike.png",
+      "title": "Ironmike",
+      "category": "luxury"
+    },
+    {
+      "id": 26,
+      "filename": "jayladior.png",
+      "title": "Jayladior",
+      "category": "luxury"
+    },
+    {
+      "id": 27,
+      "filename": "kxngverse.png",
+      "title": "Kxngverse",
+      "category": "clean"
+    },
+    {
+      "id": 28,
+      "filename": "leobanks.png",
+      "title": "Leobanks",
+      "category": "clean"
+    },
+    {
+      "id": 29,
+      "filename": "lxrdvision.PNG",
+      "title": "Lxrdvision",
+      "category": "vibrant"
+    },
+    {
+      "id": 30,
+      "filename": "mako.png",
+      "title": "Mako",
+      "category": "abstract"
+    },
+    {
+      "id": 31,
+      "filename": "marztheghost.PNG",
+      "title": "Marztheghost",
+      "category": "dark"
+    },
+    {
+      "id": 32,
+      "filename": "mekorx.png",
+      "title": "Mekorx",
+      "category": "retro"
+    },
+    {
+      "id": 33,
+      "filename": "midnightupload.png",
+      "title": "Midnightupload",
+      "category": "mixtape"
+    },
+    {
+      "id": 34,
+      "filename": "mikeldreon.png",
+      "title": "Mikeldreon",
+      "category": "clean"
+    },
+    {
+      "id": 35,
+      "filename": "mindspace.png",
+      "title": "Mindspace",
+      "category": "abstract"
+    },
+    {
+      "id": 36,
+      "filename": "misxtical.PNG",
+      "title": "Misxtical",
+      "category": "luxury"
+    },
+    {
+      "id": 37,
+      "filename": "neonsunset.png",
+      "title": "Neonsunset",
+      "category": "retro"
+    },
+    {
+      "id": 38,
+      "filename": "neonsunset2.png",
+      "title": "Neonsunset2",
+      "category": "retro"
+    },
+    {
+      "id": 39,
+      "filename": "noskipsallowed.png",
+      "title": "Noskipsallowed",
+      "category": "mixtape"
+    },
+    {
+      "id": 40,
+      "filename": "nova.png",
+      "title": "Nova",
+      "category": "abstract"
+    },
+    {
+      "id": 41,
+      "filename": "novajay.png",
+      "title": "Novajay",
+      "category": "clean"
+    },
+    {
+      "id": 42,
+      "filename": "pulserunner.png",
+      "title": "Pulserunner",
+      "category": "retro"
+    },
+    {
+      "id": 43,
+      "filename": "r3dmetro.png",
+      "title": "R3Dmetro",
+      "category": "mixtape"
+    },
+    {
+      "id": 44,
+      "filename": "riqoflame.png",
+      "title": "Riqoflame",
+      "category": "vibrant"
+    },
+    {
+      "id": 45,
+      "filename": "roughdrafts.png",
+      "title": "Roughdrafts",
+      "category": "mixtape"
+    },
+    {
+      "id": 46,
+      "filename": "saintstatic.PNG",
+      "title": "Saintstatic",
+      "category": "dark"
+    },
+    {
+      "id": 47,
+      "filename": "sidebseason.png",
+      "title": "Sidebseason",
+      "category": "mixtape"
+    },
+    {
+      "id": 48,
+      "filename": "thehollowcrew.PNG",
+      "title": "Thehollowcrew",
+      "category": "dark"
+    },
+    {
+      "id": 49,
+      "filename": "velvetvixon.png",
+      "title": "Velvetvixon",
+      "category": "luxury"
+    },
+    {
+      "id": 50,
+      "filename": "yepjinko.png",
+      "title": "Yepjinko",
+      "category": "clean"
+    }
+  ]
+}
